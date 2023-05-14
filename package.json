@@ -1,0 +1,19 @@
+{
+  "name": "my-animation",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@motion-canvas/2d": "^3.5.1",
+    "@motion-canvas/core": "^3.4.0",
+    "fluent-ffmpeg": "^2.1.2"
+  },
+  "devDependencies": {
+    "@motion-canvas/ui": "^3.5.0",
+    "@motion-canvas/vite-plugin": "^3.4.0",
+    "vite": "^4.1.4"
+  }
+}
